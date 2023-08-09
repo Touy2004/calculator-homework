@@ -79,7 +79,6 @@ void start()
 
 void main()
 {
-    int u = 0;
     do
     {
         int func;
